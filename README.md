@@ -2,4 +2,6 @@
 
 HHPC21 homework 1
 
-sor.cpp is an sor code for u'' = -1 (see the header for info)
+Exercise_1.key is two keynote slides on a NIST HPC application
+
+sor.cpp is an sor code for Ex. 1.3, u'' = -1 (see the header for info)
